@@ -18,4 +18,4 @@ This webpage was created just to see my growth here.
 
 ## Purpose:
 
-this website have one thing to let the public know, we are trying our best to give it as much as we are learning that forcing ourself knowing, while trying o learn more
+this website have one thing to let the public know, we are trying our best to give it as much as we are learning that forcing ourself knowing, while trying to learn more
