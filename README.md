@@ -1,21 +1,21 @@
-# Better-Life
+# Better-Life 
 
 This webpage was created just to see my growth here.
 
-## Technology used
+## Technology used:
 
 **HTML** For structuring the webpage
 
-## Pages/Sections
+## Pages/Sections:
 
-**About** This section was talking about everything you need to know about thus webpage
+**About** - This section was talking about everything you need to know about thus webpage
 
-**Services** Talking about all that you can get while knowing this brand which includes
+**Services** - Talking about all that you can get while knowing this brand which includes
 
--hiring
--singing
--clapping
+- hiring
+- singing
+- clapping
 
-## Purpose
+## Purpose:
 
 this website have one thing to let the public know, we are trying our best to give it as much as we are learning that forcing ourself knowing, while trying o learn more
